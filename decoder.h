@@ -3,6 +3,7 @@
 #define _DECODER_H_
 
 #include "config.h"
+#include "stdint.h"
 
 #ifdef HAVE_LIBARIB25
 
